@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.30871308315383417
+  lightness: 0.43505548317278075
+  rhythmicContrast: 0.648721576230981
+  saturation: 0.2517792036249653
+cta: {}
+layout_spectrum: 0.949524854293387
+name: tour ist
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.1949115906790514

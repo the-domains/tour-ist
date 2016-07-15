@@ -4,13 +4,27 @@
         <description><![CDATA[tour ist]]></description>
         <link>https://thegrid.ai/tour-ist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 18:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 20:44:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tour-ist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9765437-be01-4126-861a-a10156ef7d8c.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9765437-be01-4126-861a-a10156ef7d8c.jpg</link>
             <guid isPermaLink="false">08ba86ac-c0fe-4bc6-88e6-e2bfae1959c2</guid>
+            <pubDate>Fri, 15 Jul 2016 20:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/531bf2c3-9673-4adb-8fc8-f9f28c1eeaf7.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/531bf2c3-9673-4adb-8fc8-f9f28c1eeaf7.jpg</link>
+            <guid isPermaLink="false">07226c10-9650-49e3-a188-73723a37e315</guid>
+            <pubDate>Fri, 15 Jul 2016 18:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/274ac268-dcfb-41a4-976f-5fff55753c24.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/274ac268-dcfb-41a4-976f-5fff55753c24.jpg</link>
+            <guid isPermaLink="false">7b58f9a7-fce5-47f9-b7bb-d3a07546c033</guid>
             <pubDate>Fri, 15 Jul 2016 18:52:21 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1923d2a-a74f-485f-9c8f-1184f1176322.jpg</link>
             <guid isPermaLink="false">ffe9efd1-f33a-4dbe-8341-45b52e2010d0</guid>
             <pubDate>Fri, 15 Jul 2016 12:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0cd36ac-33cb-4aa2-9350-11201bc249cc.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0cd36ac-33cb-4aa2-9350-11201bc249cc.jpg</link>
-            <guid isPermaLink="false">f551b627-c2c7-4ca7-b9d4-32f48be006de</guid>
-            <pubDate>Fri, 15 Jul 2016 12:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bfe0893-4d1a-4ecd-8241-5207519a6725.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bfe0893-4d1a-4ecd-8241-5207519a6725.jpg</link>
-            <guid isPermaLink="false">4333014f-f079-4856-a0c1-4c9152c429ad</guid>
-            <pubDate>Fri, 15 Jul 2016 12:46:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

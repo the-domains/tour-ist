@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[tour ist]]></title>
         <description><![CDATA[tour ist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tour-ist/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 15 Jul 2016 12:46:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/tour-ist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49387ddb-9a1b-4633-b5bb-a384599e0039.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/49387ddb-9a1b-4633-b5bb-a384599e0039.jpg</link>
+            <guid isPermaLink="false">fd9e26e0-96c0-4722-80e1-6e61da5aad06</guid>
+            <pubDate>Fri, 15 Jul 2016 12:46:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40dad377-8026-442f-9c3e-da6eb4d0ee70.jpg">]]></description>

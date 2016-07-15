@@ -4,7 +4,7 @@
         <description><![CDATA[tour ist]]></description>
         <link>https://thegrid.ai/tour-ist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 20:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 20:46:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tour-ist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9765437-be01-4126-861a-a10156ef7d8c.jpg</link>
             <guid isPermaLink="false">08ba86ac-c0fe-4bc6-88e6-e2bfae1959c2</guid>
             <pubDate>Fri, 15 Jul 2016 20:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77a99781ef1ba15df02dc9009a0972a6/croprotate.jpg?cropheight=1647&cropwidth=2604&degrees=0&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0cd36ac-33cb-4aa2-9350-11201bc249cc.jpg&x=0&y=0">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0cd36ac-33cb-4aa2-9350-11201bc249cc.jpg</link>
+            <guid isPermaLink="false">f551b627-c2c7-4ca7-b9d4-32f48be006de</guid>
+            <pubDate>Fri, 15 Jul 2016 20:46:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e23604-5139-4d6f-a0c9-7a1b0c4ece9a.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e23604-5139-4d6f-a0c9-7a1b0c4ece9a.jpg</link>
             <guid isPermaLink="false">6f9e7695-8e67-485c-b8c9-cadffbe2806a</guid>
-            <pubDate>Fri, 15 Jul 2016 12:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09ad795c-9d9e-45e6-8135-4cede713ebfb.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/09ad795c-9d9e-45e6-8135-4cede713ebfb.jpg</link>
-            <guid isPermaLink="false">97b65bee-700c-4373-ac81-a523e78f1973</guid>
             <pubDate>Fri, 15 Jul 2016 12:56:54 GMT</pubDate>
         </item>
     </channel>
